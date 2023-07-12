@@ -1,0 +1,13 @@
+# The project utilized four datasets obtained from our sponsor, Georgetown Analytics and Technology, for the purpose of talent management analysis. These datasets include:
+
+1.) ATS (Applicant Tracking System) Dataset: This dataset contains information related to job applications, including candidate profiles, application dates, desired salary, previous employer details, and university information. Missing values exceeding a threshold were addressed during the data-cleaning process.
+2.) HRIS (Human Resources Information System) Dataset: This dataset provides information on employees, such as hire reasons, managed IDs, sign-on bonuses, annual salaries, and various other employee-related details. Similar to the ATS dataset, missing values were handled during the data cleaning process.
+3.) Employee Historical Dataset: This dataset was formed by merging the ATS and HRIS datasets, creating a comprehensive employee historical dataset. It includes a combination of information from both sources, enabling a more comprehensive analysis of employee data.
+4.) Company Master Table Dataset: Another dataset resulting from the merging of ATS and HRIS data, this dataset provides additional information about the companies associated with the job applications and employee data. Columns such as company size, location, and website details are included.
+
+Geospatial datasets: -
+
+1.) A shapefile is a common geospatial vector data format used in Geographic Information System (GIS) software. It is a file format developed by Esri, a leading provider of GIS software and solutions. 
+A shapefile consists of multiple files that store geometric data, such as points, lines, or polygons, representing spatial features like states, cities, or countries. In the context of the project, the "states shapefile" refers to a shapefile specifically representing the boundaries or outlines of different states within a country. 
+This shapefile contains the geometric information of each state, allowing for the visualization and analysis of state-level data in a spatial context. It can be used to create maps, identify spatial relationships, and perform various spatial analyses. The shapefile format typically consists of multiple files with specific extensions, including .shp (the main file storing the geometric data), .shx (the index file), .dbf (the attribute data file), and potentially other associated files. These files work together to represent and store the geographic information contained within the shapefile.
+In summary, a states shapefile is a type of shapefile that contains the boundaries or outlines of different states, enabling the representation and analysis of spatial data at the state level.
