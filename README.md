@@ -1,9 +1,9 @@
 # Real-time data provided by Georgetown Analytics and Technology (Unleashing-AutoML-for-Talent-Management)
 This project is **sponsored by Georgetown Analytics and Technology and its founder, Ernest Smiley**. I had the opportunity to work with **real-time data provided by Georgetown Analytics and Technology**, gaining valuable insights into the field of talent management. This repository contains the code and data for the project "Unleashing AutoML for Talent Management ATS and HRIS Data." The project aims to leverage AI technologies, specifically Automated Machine Learning (AutoML), in the field of talent management. The goal is to analyze ATS (Applicant Tracking System) and HRIS (Human Resources Information System) data to gain insights into hiring decisions and improve talent management outcomes.
 
-# Abstract
+## 🔗 Links
+[Code](spotify-track-popularity-analysis-and-prediction.ipynb)
 
-This project explores the potential of AutoML in talent management by utilizing ATS and HRIS data obtained from our sponsor, Georgetown Analytics and Technology. The objectives include understanding patterns in the data, merging datasets from multiple sources, identifying key variables influencing hiring decisions, and developing predictive models to forecast candidate hiring. AutoML techniques are employed to automate the model development and optimization process.
 
 # Introduction
 
