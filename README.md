@@ -16,12 +16,19 @@ The project addresses two specific problem statements: Hired_Status Prediction (
 # Exploratory Data Analysis (EDA)
 
 EDA was performed to gain insights into the data. Various questions were explored, including the distribution of job openings, the most cited reasons for job changes, salary distributions based on years of experience, popular job profiles, and job demand across different cities and countries.
+
 **Questions for Analysis: -**
+
 1.) Which state exhibits both a high volume of job openings and a strong success rate in terms of successfully hired candidates?
+
 2.) What is the most cited reason for job changes among employees?
+
 3.) How does the average annual salary vary based on years of experience?
-4.) Which countries have the highest job demand? 
+
+4.) Which countries have the highest job demand?
+
 5.) Which cities are the most popular for job seekers?
+
 6.) What are the top 10 industries with the highest number of companies?
 
 Created a variety of informative visualizations to answer many business inquiries. One of the most intriguing graphs was created using **geopandas** and is shown below: -
