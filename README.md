@@ -17,6 +17,9 @@ The project addresses two specific problem statements: Hired_Status Prediction (
 
 EDA was performed to gain insights into the data. Various questions were explored, including the distribution of job openings, the most cited reasons for job changes, salary distributions based on years of experience, popular job profiles, and job demand across different cities and countries.
 
+<img width="895" alt="image" src="https://github.com/Abhiashu10/Unleashing-AutoML-for-Talent-Management/assets/101308486/3bf809ee-ce3c-4b5c-a963-5a6217e0de81">
+
+
 # Merge Dataset
 
 Multiple datasets were merged using Python's merge function, resulting in a consolidated dataset for further analysis and modeling. Categorical variables were one-hot encoded, and numerical variables were standardized to prepare the dataset for machine learning tasks.
