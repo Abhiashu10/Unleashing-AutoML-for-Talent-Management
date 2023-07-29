@@ -40,7 +40,7 @@ Created a variety of informative visualizations to answer many business inquirie
 
 Multiple datasets were merged using Python's merge function, resulting in a consolidated dataset for further analysis and modeling. Categorical variables were one-hot encoded, and numerical variables were standardized to prepare the dataset for machine learning tasks.
 
-# Handling Imbalanced Dataset
+# Handling Imbalanced Dataset Using SMOTE
 
 Imbalanced datasets were addressed using the **Synthetic Minority Over-sampling Technique (SMOTE)** to create synthetic samples for the minority class. This technique helps balance the dataset and improve the performance of machine learning models.
 
